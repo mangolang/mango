@@ -11,7 +11,6 @@ Some related pages:
 * Website: https://mangolang.org
 * Twitter: `@mangocode`_
 * Enhancements: https://github.com/mangolang/enhancement_proposals
-* Style guide: https://github.com/mangolang/style_guide
 * Primary developer: `@mverleg`_
 
 Different parts of the code:
