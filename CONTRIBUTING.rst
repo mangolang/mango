@@ -94,4 +94,4 @@ If you feel there is a security issue, please `contact me`_ privately.
 .. _`Rust style guide`: https://github.com/rust-lang-nursery/fmt-rfcs/blob/master/guide/guide.md
 .. _`assert!: https://doc.rust-lang.org/1.22.1/std/macro.assert.html
 .. _`debug_assert!: https://doc.rust-lang.org/1.22.1/std/macro.debug_assert.html
-.. _these: http://hshno.de/HJhvEnVDz
+.. _these: https://hashnode.com/post/what-are-some-programming-habits-you-follow-to-keep-bugs-away-cjdctqrxm04vwwmwthf1496bp/answer/cjdqcdvst03t1t3wt60dyl09v
