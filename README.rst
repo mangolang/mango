@@ -8,7 +8,7 @@ It is still far from being ready for production.
 
 Some related pages:
 
-* Website: https://mangolang.org
+* Website: https://mangocode.org
 * Twitter: `@mangocode`_
 * Enhancements: https://github.com/mangolang/enhancement_proposals
 * Primary developer: `@mverleg`_
